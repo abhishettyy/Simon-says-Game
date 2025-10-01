@@ -15,7 +15,7 @@ body{
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-color:rgb(125, 90, 157);
+    background-color:rgb(0, 0, 0);
 }
 #main{
     height:60%;

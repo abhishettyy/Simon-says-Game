@@ -3,9 +3,9 @@ About
 
 A simple and fun Simon Says memory game built using HTML, CSS, and JavaScript. The player has to repeat the sequence of colors shown by the game. Each round adds one more step to the sequence, testing your memory and focus.
 
-🚀 Live Demo
+🚀Live Demo
 
-🔗 Play the Game Here
+🔗 https://abhishettyy.github.io/Simon-says-Game/
 
 🛠️ Features
 
